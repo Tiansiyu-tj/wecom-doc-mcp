@@ -65,7 +65,7 @@ npm install
   "mcpServers": {
     "wecom-doc": {
       "command": "npx",
-      "args": ["tsx", "/你的路径/wecom-doc-mcp/src/index.ts"]
+      "args": ["tsx", "<clone到本地的路径>/wecom-doc-mcp/src/index.ts"]
     }
   }
 }
