@@ -132,7 +132,7 @@ Two modes, your choice:
 | 📝 Documents | `/doc/` | ✅ Verified |
 | 📊 Spreadsheets | `/sheet/` | 🔧 Untested |
 | 🎞️ Slides | `/slide/` | 🔧 Untested |
-| 🧠 Mind Maps | `/mind/` | 🔧 Untested |
+| 🧠 Mind Maps | `/mind/` | ✅ Verified |
 | 🔀 Flowcharts | `/flowchart/` | 🔧 Untested |
 | 📋 Smart Sheets | `/smartsheet/` | 🔧 Untested |
 
